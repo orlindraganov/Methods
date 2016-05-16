@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\Methods\GetLargestNumber\bin\Debug\GetLargestNumber.exe.config
+D:\Orlinovski Tapotii\Methods\GetLargestNumber\bin\Debug\GetLargestNumber.exe
+D:\Orlinovski Tapotii\Methods\GetLargestNumber\bin\Debug\GetLargestNumber.pdb
+D:\Orlinovski Tapotii\Methods\GetLargestNumber\obj\Debug\GetLargestNumber.exe
+D:\Orlinovski Tapotii\Methods\GetLargestNumber\obj\Debug\GetLargestNumber.pdb

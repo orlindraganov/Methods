@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\Methods\AddingPolynomials\bin\Debug\AddingPolynomials.exe.config
+D:\Orlinovski Tapotii\Methods\AddingPolynomials\bin\Debug\AddingPolynomials.exe
+D:\Orlinovski Tapotii\Methods\AddingPolynomials\bin\Debug\AddingPolynomials.pdb
+D:\Orlinovski Tapotii\Methods\AddingPolynomials\obj\Debug\11.AddingPolynomials.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\Methods\AddingPolynomials\obj\Debug\AddingPolynomials.exe
+D:\Orlinovski Tapotii\Methods\AddingPolynomials\obj\Debug\AddingPolynomials.pdb

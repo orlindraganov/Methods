@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\Methods\IntegerCalculations\bin\Debug\IntegerCalculations.exe.config
+D:\Orlinovski Tapotii\Methods\IntegerCalculations\bin\Debug\IntegerCalculations.exe
+D:\Orlinovski Tapotii\Methods\IntegerCalculations\bin\Debug\IntegerCalculations.pdb
+D:\Orlinovski Tapotii\Methods\IntegerCalculations\obj\Debug\14.IntegerCalculations.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\Methods\IntegerCalculations\obj\Debug\IntegerCalculations.exe
+D:\Orlinovski Tapotii\Methods\IntegerCalculations\obj\Debug\IntegerCalculations.pdb

@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\Methods\Gosho\bin\Debug\Gosho.exe.config
+D:\Orlinovski Tapotii\Methods\Gosho\bin\Debug\Gosho.exe
+D:\Orlinovski Tapotii\Methods\Gosho\bin\Debug\Gosho.pdb
+D:\Orlinovski Tapotii\Methods\Gosho\obj\Debug\GoshoMazhe.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\Methods\Gosho\obj\Debug\Gosho.exe
+D:\Orlinovski Tapotii\Methods\Gosho\obj\Debug\Gosho.pdb

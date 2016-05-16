@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\Methods\EnglishDigit\bin\Debug\EnglishDigit.exe.config
+D:\Orlinovski Tapotii\Methods\EnglishDigit\bin\Debug\EnglishDigit.exe
+D:\Orlinovski Tapotii\Methods\EnglishDigit\bin\Debug\EnglishDigit.pdb
+D:\Orlinovski Tapotii\Methods\EnglishDigit\obj\Debug\EnglishDigit.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\Methods\EnglishDigit\obj\Debug\EnglishDigit.exe
+D:\Orlinovski Tapotii\Methods\EnglishDigit\obj\Debug\EnglishDigit.pdb

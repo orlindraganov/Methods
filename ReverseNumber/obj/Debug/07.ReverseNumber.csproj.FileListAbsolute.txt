@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\Methods\ReverseNumber\obj\Debug\07.ReverseNumber.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\Methods\ReverseNumber\bin\Debug\ReverseNumber.exe.config
+D:\Orlinovski Tapotii\Methods\ReverseNumber\bin\Debug\ReverseNumber.exe
+D:\Orlinovski Tapotii\Methods\ReverseNumber\bin\Debug\ReverseNumber.pdb
+D:\Orlinovski Tapotii\Methods\ReverseNumber\obj\Debug\ReverseNumber.exe
+D:\Orlinovski Tapotii\Methods\ReverseNumber\obj\Debug\ReverseNumber.pdb

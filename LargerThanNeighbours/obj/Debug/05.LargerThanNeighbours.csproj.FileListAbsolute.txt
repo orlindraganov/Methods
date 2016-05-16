@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\Methods\LargerThanNeighbours\bin\Debug\LargerThanNeighbours.exe.config
+D:\Orlinovski Tapotii\Methods\LargerThanNeighbours\bin\Debug\LargerThanNeighbours.exe
+D:\Orlinovski Tapotii\Methods\LargerThanNeighbours\bin\Debug\LargerThanNeighbours.pdb
+D:\Orlinovski Tapotii\Methods\LargerThanNeighbours\obj\Debug\LargerThanNeighbours.exe
+D:\Orlinovski Tapotii\Methods\LargerThanNeighbours\obj\Debug\LargerThanNeighbours.pdb

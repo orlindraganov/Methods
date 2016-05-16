@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\Methods\NumberAsArray\bin\Debug\NumberAsArray.exe.config
+D:\Orlinovski Tapotii\Methods\NumberAsArray\bin\Debug\NumberAsArray.exe
+D:\Orlinovski Tapotii\Methods\NumberAsArray\bin\Debug\NumberAsArray.pdb
+D:\Orlinovski Tapotii\Methods\NumberAsArray\obj\Debug\08.NumberAsArray.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\Methods\NumberAsArray\obj\Debug\NumberAsArray.exe
+D:\Orlinovski Tapotii\Methods\NumberAsArray\obj\Debug\NumberAsArray.pdb
