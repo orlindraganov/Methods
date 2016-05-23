@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.SubstractingPolynomials"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.IntegerCalculations", "IntegerCalculations\14.IntegerCalculations.csproj", "{419CF689-43FD-42AE-BEE0-94B6534E15B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoshoSeUmaza", "GoshoSeUmaza\GoshoSeUmaza.csproj", "{EC74F945-B7B1-491D-A874-3CEF09775DA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncreasingAbsoluteDifference", "IncreasingAbsoluteDifference\IncreasingAbsoluteDifference.csproj", "{2229923F-1211-405E-8517-31D56FD106C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{419CF689-43FD-42AE-BEE0-94B6534E15B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{419CF689-43FD-42AE-BEE0-94B6534E15B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{419CF689-43FD-42AE-BEE0-94B6534E15B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC74F945-B7B1-491D-A874-3CEF09775DA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC74F945-B7B1-491D-A874-3CEF09775DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC74F945-B7B1-491D-A874-3CEF09775DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC74F945-B7B1-491D-A874-3CEF09775DA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2229923F-1211-405E-8517-31D56FD106C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2229923F-1211-405E-8517-31D56FD106C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2229923F-1211-405E-8517-31D56FD106C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2229923F-1211-405E-8517-31D56FD106C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
